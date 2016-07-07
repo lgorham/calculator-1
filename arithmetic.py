@@ -29,7 +29,11 @@ def cube(num1):
     return num1**3
 
 def power(num1, num2):
-    pass
+    """ return the value of num1 to the power of num2 """
+    
+    return num1**num2
 
 def mod(num1, num2):
-    pass
+    """ return the remainder of num1 divided by num2"""
+    
+    return num1 % num2
